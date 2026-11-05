@@ -8,15 +8,13 @@ An academic immersive-experience prototype developed for the Virtual Reality cou
 
 ## Gameplay Demo
 
-Watch a short demonstration of the gaze-based interactions, dynamic lighting, particle effects and environmental exploration.
+Watch the demonstration of the gaze-based interactions,
+dynamic lighting and visual effects.
 
-[Watch the gameplay demonstration](demo/unity-demo-portfolio-720p.mp4)
+🎬 [Watch the Unity gameplay demo on YouTube](INSERISCI_LINK_YOUTUBE)
 
-The experience was developed in Unity 6 using C# and the Universal Render Pipeline. The repository includes selected source scripts and documentation; third-party 3D assets are excluded.
+🎮 [View the project on itch.io](https://davide-deathgun.itch.io/lantro-dellalchimista)
 
-## Demo
-
-- [Project page on itch.io](https://davide-deathgun.itch.io/lantro-dellalchimista) — external project link; availability and download options may vary.
 - This repository contains **original C# scripts and documentation only**, not a complete Unity project or executable build.
 
 ## Interaction design
