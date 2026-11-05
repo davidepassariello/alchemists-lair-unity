@@ -11,7 +11,7 @@ An academic immersive-experience prototype developed for the Virtual Reality cou
 Watch the demonstration of the gaze-based interactions,
 dynamic lighting and visual effects.
 
-🎬 [Watch the Unity gameplay demo on YouTube](INSERISCI_LINK_YOUTUBE)
+🎬 [Watch the Unity gameplay demo on YouTube](https://youtu.be/ecH1rXpAl-c)
 
 🎮 [View the project on itch.io](https://davide-deathgun.itch.io/lantro-dellalchimista)
 
