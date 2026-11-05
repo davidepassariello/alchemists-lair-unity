@@ -6,6 +6,14 @@ An academic immersive-experience prototype developed for the Virtual Reality cou
 
 ![Alchemist's lair environment](screenshots/environment-study.jpg)
 
+## Gameplay Demo
+
+Watch a short demonstration of the gaze-based interactions, dynamic lighting, particle effects and environmental exploration.
+
+[Watch the gameplay demonstration](demo/unity-demo-portfolio-720p.mp4)
+
+The experience was developed in Unity 6 using C# and the Universal Render Pipeline. The repository includes selected source scripts and documentation; third-party 3D assets are excluded.
+
 ## Demo
 
 - [Project page on itch.io](https://davide-deathgun.itch.io/lantro-dellalchimista) — external project link; availability and download options may vary.
